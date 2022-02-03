@@ -23,7 +23,8 @@ helm repo add dao-2048 http://daocloud.github.io/dao-2048/
 helm install my-release dao-2048/dao-2048
 ```
 
-
 ### Thanks
 
 This image is derived from the Docker Hub image **[alexwhen/docker-2048](https://registry.hub.docker.com/u/alexwhen/docker-2048/)**, thanks to the developer**[alexwhen] (https://github.com/alexwhen)** enthusiastic support. And thanks to gabrielecirulli's [2048] (https://github.com/gabrielecirulli/2048) project
+
+# samandar-2048
